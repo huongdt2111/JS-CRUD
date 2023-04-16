@@ -1,0 +1,24 @@
+body{
+    background: #1d2630;
+}
+
+*{
+    color: #fff;
+}
+
+#update{
+    display: none;
+}
+
+table {
+    margin-top: 20px;
+  }
+
+table, tr, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+td {
+    padding: 10px;
+}
