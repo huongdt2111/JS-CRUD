@@ -8,7 +8,7 @@ function validateForm(){
     var material = document.getElementById("material").value;
 
     if(id == ""){
-        alert("Age is required");
+        alert("ID is required");
         return false;
     }
 
